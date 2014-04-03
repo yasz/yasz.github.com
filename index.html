@@ -1,1 +1,56 @@
-why?
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Fixed layout example with Bootstrap</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"
+	media="screen" />
+<style type="text/css">
+body {
+	margin: 30px;
+}
+</style>
+</head>
+<body>
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span2">
+				<ul id="nav" class="nav nav-pills nav-stacked sidebar-nav">
+					<li class="active"><a href="#">团契生活</a></li>
+					<li class="dropdown"><a class="dropdown-toggle"
+						data-toggle="dropdown" href="#">HANDG<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="#">HANDG TUTORIALS</a></li>
+							<li><a href="#">HANDG STUDIO</a></li>
+						</ul></li>
+					<li class="dropdown"><a class="dropdown-toggle"
+						data-toggle="dropdown" href="#">日志<b class="caret"></b></a>
+						<ul class="dropdown-menu">
+							<li><a href="#">1</a></li>
+							<li><a href="#"></a></li>
+						</ul></li>
+					<li><a href="#">Fellowship</a></li>
+					<li><a href="mailto:yaszyoyo@gmail.com">Contact</a></li>
+
+				</ul>
+			</div>
+
+			<div class="span10">
+				<h3>【约翰福音3:16】 神爱世人，甚至将祂的独生子赐给他们，叫一切信祂的，不至灭亡，反得永生。</h3>
+				<p>【约翰福音10:10】 我来了是要叫人得生命，并且得的更丰盛。</p>
+			</div>
+		</div>
+		<script src="http://code.jquery.com/jquery.js"></script>
+		<script src="bootstrap/js/bootstrap.min.js"></script>
+		<script src="bootstrap/js/stick.js"></script>
+		<script type="text/javascript">
+			//initiating jQuery
+			jQuery(function($) {
+				$(document).ready(function() {
+					//enabling stickUp on the '.navbar-wrapper' class
+					$("#nav").stickUp();
+				});
+			});
+		</script>
+</body>
+</html>
