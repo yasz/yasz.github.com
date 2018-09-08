@@ -16,5 +16,5 @@ ACE（Accelerated Christian Education/字面翻译为“加速地基督教教育
 
 
 
-- ace机构出版的 [PACEs (Packets of Accelerated Christian Education)](https://www.aceministries.com/what-is-a-pace) 教材内容以自学为主，重点培养思维技能和创造/掌握能力为主；
+- ace机构出版的 [PACEs (Packets of Accelerated Christian Education)](https://www.aceministries.com/what-is-a-pace) 教材内容以自学材料为主，重点培养思维技能、创造力、掌握力为主；
 - 与同类教材相比难度水平为：较容易
