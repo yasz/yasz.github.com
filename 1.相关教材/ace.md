@@ -1,6 +1,6 @@
 
 # ACE
-ACE（Accelerated Christian Education/字面翻译为“加速地基督教教育”）是一套拥有国际权威认证的、基于圣经的从学前直到高中12年的系列教材。
+ACE（Accelerated Christian Education/字面意思“加速地基督教教育”）教材 [PACEs (Packets of Accelerated Christian Education)](https://www.aceministries.com/what-is-a-pace)是一套基于圣经、从学前直到高中12年的系列教材，此外ACE机构还提供一套互助系统推进该教材在全球各地区的使用。
 
 这套教材是由美国德克萨斯州加兰市的Howard夫妇(Donald & Esther)于1970年开始撰写。初期由5名学生参与在Howard夫妇在家教学开始，4年内在美国迅速发展到500所学校规模，目前A.C.E机构宣城已在全球范围内服务超过6000所已注册学校（含在家教学）。
 
