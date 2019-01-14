@@ -12,25 +12,23 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-    search: 'auto', // default
-
-	search: {
-        noData: {
-          '/de-de/': 'Keine Ergebnisse!',
-          '/zh-cn/': '没有结果!',
-          '/': 'No results!'
-        },
-        paths: 'auto',
-        placeholder: {
-          '/de-de/': 'Suche',
-          '/zh-cn/': '搜索',
-          '/': 'Search'
-        }
-		,depth: 2
+    search: {
+        paths: [
+          '/README',
+		  '/1.material/ace',
+		  '/1.material/bju'
+        ],
+        placeholder: '搜索一下',
+        noData: '找不到结果',
+        depth: 6
       }
   }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-nginx.min.js"></script>
 </body>
 </html>
