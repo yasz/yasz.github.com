@@ -11,8 +11,8 @@
 
 ## 相关教材
 
-   - [ace.md](1.相关教材/ace.md)
-   - [bju.md](1.相关教材/bju.md)
+   - [ace.md](1.material/ace.md)
+   - [bju.md](1.material/bju.md)
 
 ## 教案
 
