@@ -3,6 +3,7 @@
 
 Bob Jones大学于1927年组建于美国南卡罗来纳州，致力于提供基督教博雅教育，旨在激发终身学习、爱和领导的精神。
 ![](./media/bju.png)
+
 >BJU Press is committed to Christian education. Christian teachers and administrators play a crucial role in educating students for the next generation. To support Christian educators, BJU Press produces textbooks and materials that shape a biblical worldview, are academically rigorous, encourage critical thinking, and are supported with technology solutions. Our Core Values are listed below.
 
 - 现任校长：Dr. Steve Pettit (2014.5~)
@@ -11,7 +12,10 @@ Bob Jones大学于1927年组建于美国南卡罗来纳州，致力于提供基�
 
 - 与同类教材相比难度水平(1-5)为：较困难。
 
+BJU事工联校
+
 ## 短访
+
 2018年初上海bju教育家长事务管理员进行了一个简短的采访：
 
 ### 如何看待自主式学习法（如蒙台梭利，华德福，瑞吉欧）？
